@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613537547249",
+    "firebase_url": "https://fire-hadith.firebaseio.com",
+    "project_id": "fire-hadith",
+    "storage_bucket": "fire-hadith.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613537547249:android:d6c3b0b88615c267",
+        "android_client_info": {
+          "package_name": "com.shifat.fire_hadith"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613537547249-8p3g2kj005s6u8k1qi3u1ijqti31v9hm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHRs_xFMlvpKYC8w2oZHjE0IIUm23BH-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613537547249-8p3g2kj005s6u8k1qi3u1ijqti31v9hm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
